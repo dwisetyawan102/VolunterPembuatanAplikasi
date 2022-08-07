@@ -9,3 +9,4 @@ website. Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-requ
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Owhiey, [Linkedin](https://www.linkedin.com/in/owhiey/).
